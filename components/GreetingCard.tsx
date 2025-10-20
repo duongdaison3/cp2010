@@ -96,8 +96,7 @@ const GreetingCard: React.FC<GreetingCardProps> = ({ isPlaying, toggleMusic }) =
                     <motion.h2 variants={textLineVariants} className="font-title font-bold text-xl sm:text-2xl md:text-3xl text-rose-800">Chúc mừng Ngày Phụ nữ Việt Nam 20/10!</motion.h2>
                     <motion.p variants={textLineVariants}>Ngày 20 tháng 10 là dịp đặc biệt để bày tỏ lòng biết ơn và trân trọng tới những người phụ nữ tuyệt vời – những người mang đến yêu thương, sức mạnh và nguồn cảm hứng cho cuộc sống này.</motion.p>
                     <motion.p variants={textLineVariants}>Mỗi người phụ nữ đều là một bông hoa rực rỡ nhất được sinh ra để làm đẹp cho cuộc đời.</motion.p>
-                    <motion.p variants={textLineVariants}>Nhân ngày 20/10, HDI English xin gửi lời chúc tới tất cả những người phụ nữ – các bà, các mẹ, các chị và những nàng công chúa nhỏ của đại gia đình HDI – luôn ngập tràn niềm vui, hạnh phúc và rạng rỡ hơn cả những đóa hoa xinh đẹp nhất.</motion.p>
-                    <motion.p variants={textLineVariants}>Cảm ơn vì đã lựa chọn HDI English là nơi đồng hành phát triển toàn diện Tiếng anh và kỹ năng cho con.</motion.p>
+                    <motion.p variants={textLineVariants}>Nhân ngày 20/10, Team Anh em HDI English Linh Đàm xin gửi lời chúc tới tất cả những người phụ nữ – các bà, các mẹ, các chị và những nàng công chúa nhỏ của đại gia đình HDI – luôn ngập tràn niềm vui, hạnh phúc và rạng rỡ hơn cả những đóa hoa xinh đẹp nhất.</motion.p>
                   </motion.div>
 
                   {/* English Version */}
@@ -105,8 +104,7 @@ const GreetingCard: React.FC<GreetingCardProps> = ({ isPlaying, toggleMusic }) =
                     <motion.h2 variants={textLineVariants} className="font-title font-bold text-xl sm:text-2xl md:text-3xl text-blue-800">Happy Vietnamese Women’s Day 20/10!</motion.h2>
                     <motion.p variants={textLineVariants}>October 20th is a truly special time — a day to express gratitude and admiration for the amazing women who bring love, strength, and inspiration into our lives.</motion.p>
                     <motion.p variants={textLineVariants}>Every woman is a radiant flower, beautifully blooming in her own way.</motion.p>
-                    <motion.p variants={textLineVariants}>On this special day, HDI English wishes all wonderful women — the grandmothers, mothers, sisters, and little princesses of our HDI family — endless joy, beauty, and happiness that shines brighter than the most brilliant flowers.</motion.p>
-                    <motion.p variants={textLineVariants}>Thank you for choosing HDI English as a place to accompany your child in comprehensive English and skills development.</motion.p>
+                    <motion.p variants={textLineVariants}>On this special day, Men's Team HDI English Linh Dam wishes all wonderful women — the grandmothers, mothers, sisters, and little princesses of our HDI family — endless joy, beauty, and happiness that shines brighter than the most brilliant flowers.</motion.p>
                   </motion.div>
                 </motion.div>
 
